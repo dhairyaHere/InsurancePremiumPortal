@@ -1,0 +1,43 @@
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.exe
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.pdb
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.exe
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.pdb
+C:\Users\user1\Documents\Visual Studio 2015\OOSEProjectCE045\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Signup.resources
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.exe
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.exe.config
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Form1.resources
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Properties.Resources.resources
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Signup.resources
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.exe
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.pdb
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.pdb
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortalDB.mdf
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortalDB_log.ldf
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.exe.config
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.exe
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\bin\Debug\LICPremiumPortal.pdb
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.csprojAssemblyReference.cache
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Form1.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Properties.Resources.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.Signup.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.csproj.GenerateResource.cache
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.csproj.CoreCompileInputs.cache
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.exe
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.pdb
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.AddNewPlan.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.DeletePlan.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.ManagePlans.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.ModifyPlan.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.SearchPlan.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.BuyNewPlan.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.ConfirmBuying.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.CustomerPortal.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.DisplayQuotation.resources
+F:\DDU STUFF\SEM 6\OOSE\LICPremiumPortal\LICPremiumPortal\LICPremiumPortal\obj\Debug\LICPremiumPortal.PremiumCalculator.resources
